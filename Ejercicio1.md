@@ -46,3 +46,4 @@ Ahora si recargamos el apache con este comando:
 ```bash
 sudo systemctl reload apache2
 ```
+Si ponemos un index.html apache nos lo ejecutara automaticamente pero como vamos a mostrar en uno wordpress y en el otro python ya veremos como funciona cuando los instalemos y los introduzcamos.
