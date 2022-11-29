@@ -37,3 +37,8 @@ Dentro de cada uno de los archvivos .conf pondremos esto
     CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>
 ```
+Ahora para habilitar los host virtuales pondremos este comando:
+```bash
+sudo a2ensite departamentos.centro.intranet
+sudo a2ensite centro.intranet
+```
