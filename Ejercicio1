@@ -1,5 +1,0 @@
-Para la instalación de apache usaremos este comando:
-<?php
-        echo "Hello world!";
-    ?>
-
