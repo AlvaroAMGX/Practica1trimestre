@@ -7,3 +7,33 @@ Una vez instalado el apache crearemos un directorio en esta ruta (/var/www/),en 
 sudo mkdir /var/www/centro.intranet
 sudo mkdir /var/www/departamentos.centro.intranet
 ```
+Una vez creado los directorios crearemos un archivo .conf en (/etc/apache2/sites-available/)
+
+Se creara con este comando:
+```bash
+sudo nano /etc/apache2/sites-available/centro.intranet
+sudo nano /etc/apache2/sites-available/departamentos.centro.intranet
+```
+Dentro de cada uno de los archvivos .conf pondremos esto
+- Centro:
+```bash
+<VirtualHost *:80>
+    ServerName centro.intranet
+    ServerAlias www.centro.intranet
+    ServerAdmin webmaster@localhost
+    DocumentRoot /var/www/centro.intranet
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+```
+- Departamentos:
+```bash
+<VirtualHost *:80>
+    ServerName departamentos.centro.intranet
+    ServerAlias www.departamentos.centro.intranet
+    ServerAdmin webmaster@localhost
+    DocumentRoot /var/www/departamentos.centro.intranet
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+```
