@@ -42,3 +42,7 @@ Ahora para habilitar los host virtuales pondremos este comando:
 sudo a2ensite departamentos.centro.intranet
 sudo a2ensite centro.intranet
 ```
+Ahora si recargamos el apache con este comando:
+```bash
+sudo systemctl reload apache2
+```
