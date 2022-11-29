@@ -1,5 +1,5 @@
 Para la instalación de apache usaremos este comando:
-````
-sudo apt install apache2
-````
+<?php
+        echo "Hello world!";
+    ?>
 
