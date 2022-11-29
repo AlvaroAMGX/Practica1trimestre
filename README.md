@@ -11,4 +11,4 @@ Practica del primer trimestre de SRI
 7.  Instala y configura awstat.
 8.  Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio        “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios  necesarios para ejecutar php. Instala phpmyadmin.
 
-[Instalación de apache y creación de dominios](Practica1trimestre/Ejercicio1.md)
+[Instalación de apache y creación de dominios](https://github.com/AlvaroAMGX/Practica1trimestre/blob/main/Ejercicio1.md)
