@@ -1,4 +1,5 @@
-para la instalación de apache usaremos este comando:
+Para la instalación de apache usaremos este comando:
 ```bash
 sudo apt install apache2
 ```
+
