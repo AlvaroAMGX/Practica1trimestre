@@ -20,4 +20,5 @@ Ahora una vez creada la base de datos introduciremos
 ```bash 
 grant all on wordpress.* to 'wordpressuser'@'localhost' identified by 'wordpressuser';
 ```
- ahora iremos a la página de centros.intranet y nos saldra esto:
+ Ahora iremos a la página de centros.intranet y nos saldra esto:
+ ![]()
