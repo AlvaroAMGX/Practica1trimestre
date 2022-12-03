@@ -11,3 +11,4 @@ Para instalar el php introduciremos este comando:
 sudo apt install php libapache2-mod-php php-mysql
 ```
 Para comprobar que funciona pondremos este comando en la consola de comando:
+![image](./Capturas/Screenshot_2.png)
