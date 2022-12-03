@@ -21,4 +21,4 @@ Ahora una vez creada la base de datos introduciremos
 grant all on wordpress.* to 'wordpressuser'@'localhost' identified by 'wordpressuser';
 ```
  Ahora iremos a la página de centros.intranet y nos saldra esto:
- ![]()
+ ![](./Capturas/wordpress)
