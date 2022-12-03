@@ -21,4 +21,8 @@ Ahora una vez creada la base de datos introduciremos
 grant all on wordpress.* to 'wordpressuser'@'localhost' identified by 'wordpressuser';
 ```
  Ahora iremos a la página de centros.intranet y nos saldra esto:
- ![](./Capturas/wordpress.png)
+ ![Imagen wordpress](./Capturas/wordpress.png)
+ Eligiremos el idioma y nos llevara a una pagina para configurarlo,pondremos esto:
+ ![Imagen wordpress](./Capturas/wordpress_config_1.png)
+ Le daremos a enviar,pondremos un usuario y contraseña y al volver a introducir centros.intranet nos meteremos en esta página:
+  ![Imagen wordpress](./Capturas/wordpress_final.png)
