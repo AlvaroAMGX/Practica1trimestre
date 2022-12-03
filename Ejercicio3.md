@@ -1,4 +1,4 @@
-Para realizar este ejercicio deberemos descargar el archivo de wordpress en wordpress.com
+Para realizar este ejercicio deberemos descargar el archivo de wordpress en www.wordpress.com
 
 Una vez descargado el zip usaremos el comando:
 ```bash
@@ -20,3 +20,4 @@ Ahora una vez creada la base de datos introduciremos
 ```bash 
 grant all on wordpress.* to 'wordpressuser'@'localhost' identified by 'wordpressuser';
 ```
+ ahora iremos a la página de centros.intranet:
