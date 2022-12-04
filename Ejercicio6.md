@@ -26,3 +26,4 @@ Para terminar reiciaremos apache y podremos que cuando queramos entrar a departa
 ```bash
 sudo systemctl restart apache2
 ```
+![image](./Capturas/contraseña.png)
