@@ -15,6 +15,7 @@ Practica del primer trimestre de SRI
 
 [6.](https://github.com/AlvaroAMGX/Practica1trimestre/blob/main/Ejercicio6.md)  Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación.
 
-7.  Instala y configura awstat.
-8.  Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio        “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios  necesarios para ejecutar php. Instala phpmyadmin.
+[7.](https://github.com/AlvaroAMGX/Practica1trimestre/blob/main/Ejercicio7.md)  Instala y configura awstat.
+
+[8.](https://github.com/AlvaroAMGX/Practica1trimestre/blob/main/Ejercicio8.md)  Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio        “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios  necesarios para ejecutar php. Instala phpmyadmin.
 
