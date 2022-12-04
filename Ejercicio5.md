@@ -46,4 +46,4 @@ Reiniciamos el servicio de apache
 sudo service apache2 restart
 ```
 Y ahora si todo ha salido bien al buscar en departamentos.centro.intranet nos deberia aparecer esto:
-![](./capturas/Screenshot_3)
+![image](./Capturas/Screenshot_3.png)
