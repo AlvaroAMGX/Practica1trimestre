@@ -45,3 +45,4 @@ Reiniciamos el servicio de apache
 ```bash
 sudo service apache2 restart
 ```
+Y ahora si todo ha salido bien al buscar en departamentos.centro.intranet nos deberia aparecer esto:
