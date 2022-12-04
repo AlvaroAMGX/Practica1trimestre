@@ -7,7 +7,8 @@ Practica del primer trimestre de SRI
 
 [2.](https://github.com/AlvaroAMGX/Practica1trimestre/blob/main/Ejercicio2.md)  Activar los módulos necesarios para ejecutar php y acceder a mysql
 
-3.  Instala y configura wordpress
+[3.](https://github.com/AlvaroAMGX/Practica1trimestre/blob/main/Ejercicio3.md)  Instala y configura wordpress.
+
 4.  Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
 5.  Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente.
 6.  Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación
