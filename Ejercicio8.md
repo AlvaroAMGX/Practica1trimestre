@@ -23,7 +23,7 @@ server {
         listen [::]:8080 default_server;
 ```
 
-![]
+![image](./Capturas/puerto_nginx.png)
 
 Guardamos el archivo y reiniciamos el servicio de nginx
 ```bash
@@ -31,4 +31,4 @@ sudo service nginx restart
 ```
 
 Y para ver si funciono pondremos localhost:8080 y nos saldra el index por defecto de nginx:
-![]
+![image](./Capturas/nginx.png)
