@@ -37,3 +37,4 @@ Para comprobar que se ha implementado el AWstat buscaremos en el buscador en el 
 ```bash
 http://192.168.135.20/cgi-bin/awstats.pl?config=departamentos.centro.intranet
 ```
+![image](./Capturas/awstat.png)
