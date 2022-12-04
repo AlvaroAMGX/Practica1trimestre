@@ -9,7 +9,7 @@ Crearemos un archivo python controlador dentro de la carpeta mypythonapp
 sudo nano controller.py
 ```
 
-- Escribiremos lo siguiente
+Escribiremos lo siguiente
 
 ```python
 # -*- conding: utf-8 -*-
