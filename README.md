@@ -11,7 +11,7 @@ Practica del primer trimestre de SRI
 
 [4.](https://github.com/AlvaroAMGX/Practica1trimestre/blob/main/Ejercicio4.md)  Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
 
-5.  Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente.
+[5.](https://github.com/AlvaroAMGX/Practica1trimestre/blob/main/Ejercicio5.md)  Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente.
 6.  Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación
 7.  Instala y configura awstat.
 8.  Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio        “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios  necesarios para ejecutar php. Instala phpmyadmin.
