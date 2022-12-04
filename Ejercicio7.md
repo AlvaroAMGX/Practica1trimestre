@@ -22,13 +22,10 @@ Empezaremos introduciendo las estadisticas iniciales que se generan a partir de 
 ```bash
 sudo /usr/lib/cgi-bin/awstats.pl -config=departamentos.centro.intranet -update
 ```
-
-- Por ultimo, configuraremos apache para el AWStats
-
+Luego copiaremos la carpeta de cgi-bin en departamentos.centro.intranet:
 ```
 sudo cp -r /usr/lib/cgi-bin /var/www/html/departamentos.centro.intranet
 ```
-
 Para ver si ha funcionado reiniciaremos apache
 ```bash
 sudo service apache2 restart
